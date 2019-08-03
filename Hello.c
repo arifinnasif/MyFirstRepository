@@ -4,6 +4,7 @@ int main()
 {
   printf("Hello, world!");
   printf("\nWorld?");
-  int i;
+  double i;
+  //hello there!
   return 0;
 }
